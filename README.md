@@ -4,7 +4,7 @@
 
 This project utilizes a simple LSTM (Long Short-Term Memory) model to classify SMS messages into two categories: "Spam" and "Ham" (non-spam). The dataset used is the [Kaggle SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
 
-## Dataset
+## Dataset 
 
 - **Source**: [Kaggle - SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 - **Description**: This dataset contains SMS messages that are labeled as either "ham" (non-spam) or "spam". It is widely used for training spam classification models.
